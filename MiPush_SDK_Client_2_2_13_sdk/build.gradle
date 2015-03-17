@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('MiPush_SDK_Client_2_2_13_sdk.jar'))
